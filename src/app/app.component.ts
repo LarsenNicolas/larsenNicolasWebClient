@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {DossierService} from "./services/dossier.service";
 
 @Component({
   selector: 'app-root',
